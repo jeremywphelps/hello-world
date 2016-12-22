@@ -1,1 +1,2 @@
 file2.txt in subfolder1
+changing file in folder
